@@ -18,7 +18,5 @@ receive-lp1.dg.srv.nintendo.net
 *.wup.eshop.nintendo.net
 *.c.shop.nintendo.net
 *.c.eshop.nintendo.net
-*.c.shop.nintendowifi.net
-*.c.eshop.nintendowifi.net
 *.hac.lp1.d4c.nintendo.net
 *.hac.lp1.eshop.nintendo.net
